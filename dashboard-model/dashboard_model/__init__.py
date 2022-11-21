@@ -1,0 +1,1 @@
+from dashboard_model.model import app
